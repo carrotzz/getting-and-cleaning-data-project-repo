@@ -1,6 +1,6 @@
 Getting and Cleaning Data Project
 
-Carrotzz
+Carrotzz (Chin Heng)
 
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
 
